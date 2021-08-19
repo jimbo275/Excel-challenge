@@ -1,3 +1,3 @@
-# Excel-Challenge 1
+# Excel Project
 
 Repository for basic Excel analysis
